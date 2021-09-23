@@ -41,7 +41,7 @@ export function joinCall() {
 function getPeopleCount() {
   let count;
   try {
-    count = document.querySelector("span.wnPUne.N0PJ8e").innerHTML;
+    count = document.querySelector("div.uGOf1d").innerHTML;
   } catch (e) {
     count = "0";
   }
